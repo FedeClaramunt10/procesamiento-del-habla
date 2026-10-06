@@ -1,6 +1,6 @@
-# Procesamiento del Habla
+﻿# Procesamiento del Habla
 
-Trabajos de la materia Procesamiento del Habla de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: edición de audio, transcripción automática y un chatbot sencillo.
+Trabajos de la materia Procesamiento del Habla de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: edición de audio, transcripción automática y un chatbot sencillo.
 
 ## Entregas
 
